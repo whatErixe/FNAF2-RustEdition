@@ -1,0 +1,2 @@
+# Android targets can be configured here after installing the Android NDK.
+# Example linker configuration is toolchain- and NDK-version-specific.
